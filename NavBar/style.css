@@ -1,0 +1,19 @@
+h1{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+.rajesh{
+    background-color: blueviolet;
+    color: black;
+    align-items: flex-end;
+}
+#manju{
+    background-color: red;
+    color: beige;
+    align-items: flex-start;
+}
+img{
+    width: 100%;
+    height: 100vh;
+}
